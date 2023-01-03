@@ -1,0 +1,7 @@
+enum EventLogTypes {
+    ALERT_CREATED,
+    ALERTS_DELETED,
+    USER_VALID_LOGIN,
+    USER_LOGGED_OUT,
+    USER_VIEWED_ALERTS
+}
